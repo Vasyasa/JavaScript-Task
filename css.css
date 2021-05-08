@@ -1,0 +1,16 @@
+body{
+    background-color: #A9A9A9;
+}
+select {
+    display: flex;
+    margin: 0 auto;  
+    color:#FFE4C4;
+    font-size: 2rem;
+    background-color: #DEB887;
+}
+h3{
+    display: flex;
+    justify-content: center;
+    font-size: 2rem;
+    color:#FFE4C4;
+}
